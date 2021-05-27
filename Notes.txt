@@ -1,0 +1,4 @@
+
+reddit_app_id = XVXm1oZwZLSwAw
+reddit_app_secret = cEjANfCqdmu_2ILj2YMz3x02Rctj0Q
+Refresh token = 265412904904-ZQtEXzpHeBmK4pgFzoTZGkp0E-YLbw
